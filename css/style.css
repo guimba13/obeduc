@@ -679,6 +679,13 @@ ul.social-links li a:hover i { color: #656d78 }
     width: 100%;
     display: block;
 }
+.parceiros{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: inline-block;
+}
  /*--------------------------------------------------------------------------------------*/
  /*                     5 - SLIDER                                                      */
  /*-------------------------------------------------------------------------------------*/
